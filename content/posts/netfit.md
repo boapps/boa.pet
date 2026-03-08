@@ -6,9 +6,9 @@ title = 'Ingafutás!'
 
 Általános iskolás korom óta imádtam az ingafutást ([mi ez - idősebb olvasók számára](https://www.youtube.com/watch?v=I3gfEIi4B2E)). Nem azért, mert jól futottam, hanem mert jó volt zenére futni. És nem is akármilyen zenére!
 
-Nagyon tetszett a netfit ingafutás zenéje és természetesen le akartam tölteni. Viszont a [netfit oldalán](https://www.netfit.eu/public/pb_media.php?media=hang) csak az a verzió volt fenn, amit nekünk is lejátszottak tesiórán és tele volt idegesítő hangjelzéssel meg számolással.
+Szóval nagyon tetszett a netfit ingafutás zenéje, de természetesen le is akartam tölteni. Viszont a [netfit oldalán](https://www.netfit.eu/public/pb_media.php?media=hang) csak az a verzió volt fenn, amit nekünk is lejátszottak tesiórán és tele volt idegesítő hangjelzéssel meg számolással.
 
-Még 2018 tavaszán jött az ötlet, hogy megírom az ügyfélszolgálatnak, hátha megvannak nekik az eredeti zenefájlok. Az első gyors válaszuk alapján egy eltévedt tesitanárnak néztek és átirányítottak a netfit oldalára. Miután tisztáztam, hogy nem erre van szükségem, kaptam egy wetransfer.com-os linket, ahova feltöltöttek minden ingafutás zenét.
+Még 2018 tavaszán jött az ötlet, hogy írok az ügyfélszolgálatnak, hátha megvannak nekik az eredeti zenefájlok. Az első gyors válaszuk alapján egy eltévedt tesitanárnak néztek és átirányítottak a netfit oldalára. Miután tisztáztam, hogy nem erre van szükségem, kaptam egy wetransfer.com-os linket, ahova feltöltöttek minden ingafutás zenét.
 
 Szerintem nagy magabiztossággal állítható, hogy eddig ez volt a legkellemesebb állami ügyfélszolgálatos élményem, de megkockáztatom, hogy bármilyen ügyfélszolgálatos is.
 
